@@ -4,7 +4,7 @@ A SQL-based data analysis project exploring trends and insights from a music sto
 
 ## 🔗 Database and Tools ##
 
-I***▪️Postgre SQL***
+***▪️Postgre SQL***
 
 ***▪️PgAdmin4***
 
